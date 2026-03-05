@@ -1,0 +1,29 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "David Petkov"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+description = "David Petkov Full-Stack Software Engineer AI-driven"
+logo = ""
+
+[[params.author.links]]
+email = "david.petkov10@gmail.com"
+
+[[params.author.links]]
+github = "https://github.com/davidpetkov"
+
+[[params.author.links]]
+linkedin = "https://www.linkedin.com/in/david-petkov-655b84326/"
+
+["params.author"]
+name = "David Petkov"
+bio = " "
+email = "david.petkov10@gmail.com"
+headline = "Software Engineer | AI-powered 🤖, human-driven ⚡"
+image = "IMG_8413.jpg"
