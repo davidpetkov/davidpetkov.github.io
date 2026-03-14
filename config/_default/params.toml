@@ -1,6 +1,6 @@
 colorScheme = "autumn"
-defaultAppearance = "light"
-autoSwitchAppearance = true
+defaultAppearance = "dark"
+autoSwitchAppearance = false
 enableA11y = false
 enableSearch = true
 enableCodeCopy = false
@@ -34,7 +34,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "profile"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
@@ -43,7 +43,7 @@ cardView = false
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
-homepageImage = "Dash Wave (1).svg"
+homepageImage = "bg.svg"
 
 [article]
 showDate = true
