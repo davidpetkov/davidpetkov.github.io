@@ -14,11 +14,12 @@ When a user updates their contact details—be it a phone number, email, or soci
 ## Project Gallery
 *Visualizing the live synchronization and contact matching engine.*
 
-<!-- <div style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px; scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
+<div style="display: flex; gap: 10px; overflow-x: auto; padding-bottom: 10px; scrollbar-width: thin; -webkit-overflow-scrolling: touch;">
   <img src="images/home.webp" alt="Home" style="flex: 0 0 auto; width: 300px; height: auto;">
-  <img src="images/book.webp" alt="Book" style="flex: 0 0 auto; width: 300px; height: auto;">
-  <img src="images/yout_bookings.webp" alt="Details" style="flex: 0 0 auto; width: 300px; height: auto;">
-</div> -->
+  <img src="images/notifications.webp" alt="Notifications" style="flex: 0 0 auto; width: 300px; height: auto;">
+  <img src="images/qr.webp" alt="QR Code" style="flex: 0 0 auto; width: 300px; height: auto;">
+  <img src="images/share-preference.webp" alt="Share Preference" style="flex: 0 0 auto; width: 300px; height: auto;">
+</div>
 
 ---
 
