@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "David Petkov"
+title = "Hello World!"
 
 [params]
 displayName = "EN"
