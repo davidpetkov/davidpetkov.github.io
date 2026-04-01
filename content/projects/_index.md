@@ -1,5 +1,11 @@
 ---
 title: "Projects"
-layout: "simple"
 ---
-Nothing to see here 😜
+
+<!-- already applicable -->
+<!-- 
+{{< article link="/contax/" showSummary=true compactSummary=true >}}
+
+{{< article link="/mobix/" showSummary=true compactSummary=true >}}
+
+{{< article link="/ekocistota/" showSummary=true compactSummary=true >}} -->

@@ -2,14 +2,14 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "David Petkov"
+title = "Hello World!"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-description = "David Petkov Full-Stack Software Engineer AI-driven"
+description = "David Petkov Full-Stack Software Engineer | AI-Augmented ⚡"
 logo = ""
 
 [[params.author.links]]
@@ -25,5 +25,5 @@ linkedin = "https://www.linkedin.com/in/david-petkov-655b84326/"
 name = "David Petkov"
 bio = " "
 email = "david.petkov10@gmail.com"
-headline = "Software Engineer | AI-powered 🤖, human-driven ⚡"
+headline = "Full-Stack Software Engineer | AI-Augmented ⚡"
 image = "IMG_8413.jpg"
