@@ -1,0 +1,39 @@
+/* Deep Ocean: ink navy, blue-gray surfaces, sky blue, and sea teal. */
+:root {
+  --color-neutral: 255, 255, 255;
+  /* Distinct surface shades with soft, cool text in dark mode. */
+  --color-neutral-50: 247, 250, 252;
+  --color-neutral-100: 229, 239, 245;
+  --color-neutral-200: 210, 226, 236;
+  --color-neutral-300: 181, 204, 219;
+  --color-neutral-400: 141, 170, 188;
+  --color-neutral-500: 102, 132, 152;
+  --color-neutral-600: 72, 103, 124;
+  --color-neutral-700: 41, 68, 87;
+  --color-neutral-800: 23, 44, 60;
+  --color-neutral-900: 11, 22, 32;
+
+  /* Sky blue: the main accent for links, focus, and hover states. */
+  --color-primary-50: 239, 249, 255;
+  --color-primary-100: 220, 241, 253;
+  --color-primary-200: 186, 226, 249;
+  --color-primary-300: 138, 207, 245;
+  --color-primary-400: 86, 185, 239;
+  --color-primary-500: 38, 151, 209;
+  --color-primary-600: 3, 107, 158;
+  --color-primary-700: 8, 86, 127;
+  --color-primary-800: 13, 69, 101;
+  --color-primary-900: 15, 55, 80;
+
+  /* Sea teal: a supporting accent that connects blue to the green waves. */
+  --color-secondary-50: 239, 252, 249;
+  --color-secondary-100: 211, 247, 239;
+  --color-secondary-200: 167, 235, 222;
+  --color-secondary-300: 115, 219, 202;
+  --color-secondary-400: 65, 201, 181;
+  --color-secondary-500: 30, 164, 145;
+  --color-secondary-600: 16, 123, 108;
+  --color-secondary-700: 17, 98, 88;
+  --color-secondary-800: 18, 78, 71;
+  --color-secondary-900: 17, 63, 58;
+}
