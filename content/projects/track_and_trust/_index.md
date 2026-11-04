@@ -2,13 +2,28 @@
 title: "Track & Trust: 360° High-Res Supply Chain Tracking"
 showTableOfContents: true
 date: 2026-03-31
+weight: 10
+projectContext: "Professional work · ByteTrix"
+summary: "Built the web application, authentication, data encryption, and compression for an ESA-supported supply-chain tracking platform."
 ---
 
-## 🛰️ Project Overview
+**Professional work · ByteTrix**
 
-**Track & Trust** is a high-resolution tracking solution designed to provide 360° visibility in supply chain logistics, even in environments with zero traditional connectivity. By leveraging satellite communication, IoT mesh networks, and blockchain technology, it ensures that shipment data remains authentic, immutable, and accessible anywhere on Earth.
+## At a Glance
 
-This project was developed with support from the **European Space Agency (ESA)** to address critical gaps in humanitarian aid logistics and emergency preparedness.
+Track & Trust is an ESA-supported supply-chain tracking platform combining satellite connectivity, IoT mesh networks, and blockchain for use in areas with limited connectivity.
+
+**My contribution:** Built the web application, authentication, data encryption, and compression to reduce payload sizes.
+
+**Core stack:** NestJS, PostgreSQL, Svelte.
+
+---
+
+## My Contribution
+
+* **Web Application:** Built the field interaction and shipment dashboard interfaces described below.
+* **Authentication:** Implemented user authentication for the application.
+* **Encryption & Compression:** Implemented data encryption and compression to protect shipment data and reduce the amount of data transmitted.
 
 -----
 
@@ -33,26 +48,24 @@ The backbone of the offline network consists of custom-engineered **Mesh Nodes**
 
 ### 1\. Mobile Webview: Rapid Field Interaction
 
-The mobile interface is designed for speed and reliability. Using a specialized webview, field agents can record handoffs in seconds.
+I built the mobile webview interface for field agents to scan containers and record handoffs.
 
   * **QR Integration:** Instant container scanning to trigger status updates.
   * **Offline Sync:** Interactions are cached locally on the device or mesh node until a satellite or cellular uplink becomes available.
 
 ![QR Code Scan](images/tack_trust_qr_code_scan.png)
-> **Showcase:** \> 
-> *Caption: The mobile webview interface showing the "Scan & Record" workflow for container interactions.*
+*The mobile webview's scan-and-record workflow for container interactions.*
 
 ### 2\. Web Application: Command & Control
 
-The central web dashboard provides stakeholders with a "God-view" of the entire supply chain.
+I built the central web dashboard for viewing shipments, validation status, and interaction history.
 
   * **Shipment Overview:** Real-time tracking of all active containers.
   * **Validation Status:** Visual indicators showing if a shipment update has been successfully validated and recorded on the blockchain.
   * **Status History:** A detailed, chronological log of every interaction point.
 
 ![Web App](images/tack_and_trust_web_app.png)
-> **Showcase:** \> 
-> *Caption: The administrative dashboard showing global shipment status and blockchain validation logs.*
+*The shipment dashboard with status history and blockchain validation logs.*
 
 -----
 

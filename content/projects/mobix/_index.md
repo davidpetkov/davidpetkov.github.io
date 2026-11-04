@@ -2,11 +2,20 @@
 title: "MOBIX: Smart City | Micromobility | Regenerative Finance"
 showTableOfContents: true
 date: 2026-03-31
+weight: 20
+projectContext: "Professional work · Ester / ByteTrix"
+summary: "Developed mobile and backend features for a sustainable mobility rewards platform, including Flutter migration, fraud detection, and a non-custodial wallet."
 ---
 
-## Overview
+**Professional work · Ester / ByteTrix**
 
-**MOBIX** is a decentralized "Move-to-Earn" (M2E) ecosystem that incentivizes sustainable urban mobility. By rewarding users for choosing eco-friendly transportation over CO2-emitting vehicles, MOBIX turns green habits into real-world financial value through the **$MOBX** token on the **Fetch.ai (Cosmos)** network.
+## At a Glance
+
+MOBIX rewards sustainable travel with tokens on the Fetch.ai (Cosmos) network.
+
+**My contribution:** Worked across mobile and backend development, including the Kotlin-to-Flutter migration, location fraud detection, background tracking, and a non-custodial wallet.
+
+**Core stack:** Flutter, Kotlin, NestJS, PostgreSQL, Cosmos SDK.
 
 ---
 

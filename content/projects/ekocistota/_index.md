@@ -1,14 +1,21 @@
 ---
 title: "EkoCistota: Field Service Management Platform"
 date: 2026-03-31
+weight: 30
+projectContext: "Professional work · ByteTrix"
+summary: "Built mobile and backend capabilities for a field service platform, including recurring bookings, automated reports, and customer notifications."
 showTableOfContents: true
 ---
 
-## Overview
+**Professional work · ByteTrix**
 
-**EkoCistota** is a comprehensive Field Service Management (FSM) and client engagement platform developed for a leading provider of Disinfection, Deratization, and Disinsection (DDD) services.
+## At a Glance
 
-The platform serves as the operational backbone for the company while providing a streamlined mobile portal for customers to schedule treatments, track service history, and manage legally mandated safety documentation.
+EkoCistota helps a disinfection and pest-control provider manage bookings, service history, and treatment documentation.
+
+**My contribution:** Developed mobile and backend features for recurring bookings, automated reports, and customer notifications, alongside application architecture and database design.
+
+**Core stack:** Flutter, NestJS, PostgreSQL, Drift (SQLite), Firebase.
 
 ---
 

@@ -1,13 +1,21 @@
 ---
 title: "ContaX: Social Networking Service"
 date: 2026-03-31
+weight: 40
+projectContext: "Professional work · ByteTrix"
+summary: "Developed a contact-sharing platform with real-time synchronization between a Flutter app and NestJS backend, native contact integration, and privacy-focused matching."
 showTableOfContents: true
 ---
 
-## Overview
-**ContaX** is a unified social manager designed to eliminate the frustration of fragmented and outdated contact information. Unlike a static address book, ContaX acts as a live network where users maintain a "single source of truth" for their digital identity. 
+**Professional work · ByteTrix**
 
-When a user updates their contact details—be it a phone number, email, or social media link—the platform automatically synchronizes those changes across their entire connected network in real-time.
+## At a Glance
+
+ContaX keeps shared contact details up to date across connected users.
+
+**My contribution:** Built two-way synchronization between the mobile app and backend, native contact integration, and privacy-focused contact matching.
+
+**Core stack:** Flutter, NestJS, PostgreSQL, Drift (SQLite), WebSockets.
 
 ---
 

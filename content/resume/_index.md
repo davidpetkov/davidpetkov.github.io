@@ -1,48 +1,52 @@
 ---
 title: "About David Petkov"
-description: "Full-Stack Software Engineer specializing in secure, scalable architectures and satellite data integration."
+description: "Full-Stack Software Engineer with 5 years of experience delivering end-to-end solutions across web and mobile platforms."
 date: 2026-03-05
 showTableOfContents: true
 ---
 
 ## Professional Summary
 
-I am a **Full-Stack Software Engineer** with 5 years of experience delivering robust, end-to-end solutions for
-high-impact initiatives. Proven track record of success on high-profile projects, including the
-**European Space Agency (ESA)** sponsored **Track & Trust** platform, where I integrated satellite data
-for global supply chain transparency. I specialize in building secure, scalable architectures, such as
-the **MOBIX eco-travel ecosystem**, where I engineered fraud-detection logic and cross-platform
-extensions. A versatile developer creating seamless user experiences within complex, data-driven
-environments.
+Full-Stack Software Engineer with 5 years of experience delivering end-to-end solutions across web and mobile platforms. Expert in server-side architectures, client-side development, and data store design. I thrive in evolving environments, leveraging a wide range of tools and frameworks to adapt quickly and integrate seamlessly into complex tech stacks. ✨✨
 
 ---
 
 ## Technical Expertise
 
-### Programming Languages
-* Java, Kotlin, Dart, TypeScript, Python, and C#.
+### Web & Mobile Engineering
+* Building applications across web and mobile, including React Native with Expo, Flutter, native Android, Angular, and Next.js.
 
-### Frameworks & Environments
-* **Server-Side:** Spring Boot and Nest.js (Node.js).
-* **Mobile:** Native Android and Flutter.
-* **Web:** Angular, RxJS, and Next.js.
+### Backend & Data Systems
+* Developing APIs, business logic, integrations, and data models with Spring Boot, Nest.js, PostgreSQL, and MongoDB.
 
-### Infrastructure & Data
-* **Data Stores:** PostgreSQL and MongoDB.
-* **Tools:** Git, CI/CD (GitHub Actions), Docker, and AI-Assisted Development.
+### AI-Assisted Engineering
+* Applying spec-driven development, agent harnesses, and reusable skills to guide coding agents from requirements through implementation, review, and validation.
+* Developing retrieval-augmented generation (RAG) functionality for a healthcare services mobile app.
+
+### Selected Technologies
+* **Languages:** TypeScript, Java, Kotlin, Dart, and Python.
+* **Delivery:** Git, GitHub Actions, and Docker.
+* **AI Development Tools:** OpenAI Codex and OpenCode.
 
 ---
 
 ## Professional Experience
 
-### **Software Engineer** | Byte Trix
-*May 2023 — Present*
+### **Senior Software Engineer** | Ludotech
+*Jun 2026 — Present · Skopje, North Macedonia*
+
+* Developing RAG functionality for a healthcare services mobile app built with React Native and Expo.
+* Using spec-driven development with OpenAI Codex to translate requirements into implementation tasks, review generated code, and validate behavior.
+* Designing agent harnesses and reusable skills to provide project context, guide implementation, and support consistent development workflows.
+
+### **Software Engineer** | ByteTrix
+*May 2023 — Jun 2026*
 
 * **Track & Trust (ESA):** Engineered an ESA-sponsored supply-chain platform that integrates satellite telemetry and blockchain for global transparency.
 * **MOBIX Ecosystem:** Expanded the MOBIX app via a Flutter-based extension, improving cross-platform consistency.
 * **Internal Systems:** Developed operational modules using the ERPNext/Frappe Framework to improve development efficiency.
 
-### **Full-Stack Software Developer** | Ester
+### **Software Developer** | Ester
 *Nov 2021 — May 2023*
 
 * Delivered core features for the **MOBIX eco-travel rewards wallet** and secure QR partner integrations.
